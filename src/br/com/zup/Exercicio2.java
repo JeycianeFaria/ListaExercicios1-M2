@@ -10,6 +10,9 @@ public class Exercicio2 {
         float nota3 = 8.5F;
         float nota4 = 9F;
 
+        //criando a variavel para a soma das notas
+        float somaDasNotas = nota1 + nota2 + nota3 +nota4;
+
     }
 
 }
