@@ -9,6 +9,12 @@ public class Exercicio6 {
         float horasTrabalhadas = 100F;
         float salarioBruto = salarioPorHoras * horasTrabalhadas;
 
+        //variaveis dos calculos dos descontos
+        float valorImpostoDeRenda = salarioBruto * (11/100F);
+        float valorInss = salarioBruto * (8/100F);
+        float valorSindicato = salarioBruto * (5/100F);
+
+
     }
 
 }
