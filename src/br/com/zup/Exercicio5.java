@@ -10,6 +10,7 @@ public class Exercicio5 {
         //criando variavel para armazenar a conversão
         float conversaoParaCelsius = (grausFahrenheit - 32) / 1.8F;
 
+
         //imprimindo a conversão para o usuário
         System.out.println("A temperatura em graus Fahrenheit está " + grausFahrenheit + "ºF");
         System.out.println("A mesma temperatura em garus Celsius é " + conversaoParaCelsius + "ºC");
