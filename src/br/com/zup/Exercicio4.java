@@ -7,8 +7,8 @@ public class Exercicio4 {
         //Exercicio realizado em sala juntamente com o professor
 
         //armazenando os dois dados necessários para o processamento.
-        float qtdDeHorasTrabalhadas = 40F;
-        float salarioPorHora = 45.7F;
+        float qtdDeHorasTrabalhadas = 120F;
+        float salarioPorHora = 20.7F;
 
         //Calcular o salário bruto
         float salarioBruto = qtdDeHorasTrabalhadas * salarioPorHora;
